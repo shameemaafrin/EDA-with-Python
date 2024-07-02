@@ -26,9 +26,7 @@ We begin by loading the dataset into a DataFrame named `tordata`. Displaying the
    - A boxplot provides a statistical summary for different years, emphasizing Texas as the state with the most tornadoes and December as the most prone month.
 
 ## Visualizations
-![Histogram of Month](path/to/histogram.jpg)
-![Month vs. Magnitude](path/to/month_magnitude.jpg)
-[Continue adding images with descriptive alt text]
+
 
 ### Conclusion
 The analysis underscores the importance of data analytics in understanding and preparing for tornado occurrences. Without this collected data, identifying tornado-prone months and states would be challenging. This information allows for better preparedness and precautionary measures.
