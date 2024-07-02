@@ -11,8 +11,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 
-os.chdir('C:/Users\jsham\OneDrive\Documents\AIT 580\AIT PY DIR')
-
 #Displays the working directory
 os.getcwd()  
 
