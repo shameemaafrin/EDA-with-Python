@@ -10,6 +10,8 @@ We begin by loading the dataset into a DataFrame named `tordata`. Displaying the
 1. **Monthly Data Distribution**
    - A histogram showing data distribution by month.
    - Data values sorted in ascending order indicate the arrangement of months.
+     ![image](https://github.com/shameemaafrin/EDA-with-Python/assets/77144007/01f59841-4e45-4be0-ab99-133fc3dcd076)
+
      
 
 2. **Relationship Between Month and Magnitude**
