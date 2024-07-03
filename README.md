@@ -2,14 +2,17 @@
 
 ### Dataset Overview
 We begin by loading the dataset into a DataFrame named `tordata`. Displaying the initial data provides a snapshot of the contents.
+
 ![image](https://github.com/shameemaafrin/EDA-with-Python/assets/77144007/ef1c7207-c0ab-4a8b-b310-485cebaad230)
 
 
 - `tordata.dtypes` lists all data types within the DataFrame.
+
   ![image](https://github.com/shameemaafrin/EDA-with-Python/assets/77144007/218abc09-4a2c-4518-9214-e2ff9d0e6324)
 
 - `tordata.mo` displays data pertaining to different months.
-  ![image](https://github.com/shameemaafrin/EDA-with-Python/assets/77144007/d8f92635-fc7c-4638-b1f9-63f53ecbe77f)
+
+   ![image](https://github.com/shameemaafrin/EDA-with-Python/assets/77144007/d8f92635-fc7c-4638-b1f9-63f53ecbe77f)
 
 
 ### Visual Analysis
